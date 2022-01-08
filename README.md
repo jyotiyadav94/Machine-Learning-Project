@@ -24,7 +24,8 @@ Predicting which previously purchased products will be users next order
 
 ### Notebooks
 ------------
-Exploratory Data Analysis.ipynb 
+Exploratory Data Analysis.ipynb
+
 Feature_Engineering_+_Modelling.ipynb
 
 
