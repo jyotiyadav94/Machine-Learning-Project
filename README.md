@@ -5,12 +5,12 @@
 The dataset is taken from Kaggle competition [instacart-market-basket-analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/data "instacart-market-basket-analysis").The dataset is not uploaded to github as it was too huge and can be downloaded from the above link.
 
 It contains the set of relational files
-orders.csv,
-products.csv,
-order_products_prior.csv,
-order_products_train,
-deparatment.csv,
-aisle.csv
+1. orders.csv,
+2. products.csv,
+3. order_products_prior.csv,
+4. order_products_train,
+5. deparatment.csv,
+6. aisle.csv
 
 ### Task
 Predicting which previously purchased products will be users next order
